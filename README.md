@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zagiya — Découvrir Cursor en pratique
 
 **Zagiya** est un dépôt de démonstration pour les débutants qui souhaitent comprendre la puissance de [Cursor](https://cursor.com) — un IDE (environnement de développement intégré) assisté par intelligence artificielle.
@@ -100,3 +101,6 @@ Demandez à Cursor : *« Aide-moi à créer une règle pour mon projet »* — i
 ## Licence
 
 Démo libre d'utilisation pour la formation et la découverte de Cursor.
+=======
+# testCursor
+>>>>>>> 0d727d0c3017c093c4cea71aeb2a3dd95256e7cf
