@@ -1,0 +1,16 @@
+---
+alwaysApply: true
+---
+# Landing page — conventions
+
+- HTML/CSS **vanilla** uniquement (pas de framework, pas de build)
+- Design simple, moderne, responsive
+- Textes en **français**
+- Fichiers : `index.html`, `styles.css`
+- Pour prévisualiser : serveur HTTP local (port 8080 par défaut)
+
+```bash
+# Python (recommandé, disponible partout)
+python -m http.server 8080
+# Puis ouvrir http://localhost:8080
+```

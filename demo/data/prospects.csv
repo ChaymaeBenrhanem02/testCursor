@@ -1,0 +1,21 @@
+nom,email,entreprise,secteur,statut,date_contact,montant_estime
+Marie Dubois,marie.dubois@techflow.fr,TechFlow,SaaS,nouveau,2026-07-15,12000
+Jean Martin,jean.martin@greenenergy.com,GreenEnergy,Énergie,contacté,2026-07-10,45000
+Sophie Laurent,sophie.laurent@mediplus.fr,MediPlus,Santé,qualifié,2026-07-05,78000
+Pierre Moreau,p.moreau@logistix.io,Logistix,Logistique,contacté,2026-07-18,22000
+Camille Bernard,c.bernard@artisan-pro.fr,Artisan Pro,Artisanat,nouveau,2026-07-20,3500
+Lucas Petit,lucas.petit@finova.eu,Finova,Finance,qualifié,2026-06-28,95000
+Emma Rousseau,emma.r@edtech-academy.com,EdTech Academy,Éducation,gagné,2026-06-15,52000
+Thomas Girard,t.girard@retailmax.fr,RetailMax,Commerce,perdu,2026-06-01,18000
+Julie Fontaine,j.fontaine@cloudsecure.net,CloudSecure,Cybersécurité,contacté,2026-07-12,67000
+Antoine Lefevre,a.lefevre@agrobiotech.fr,AgroBiotech,Agriculture,nouveau,2026-07-22,28000
+Isabelle Mercier,i.mercier@hotel-luxe.paris,Hôtel Luxe Paris,Hôtellerie,qualifié,2026-07-08,41000
+Nicolas Blanc,n.blanc@autoparts.eu,AutoParts,Automobile,contacté,2026-07-14,15000
+Claire Dupont,c.dupont@consulting-pro.fr,Consulting Pro,Conseil,gagné,2026-05-20,88000
+Hugo Lambert,h.lambert@gaming-studio.io,Gaming Studio,Jeux vidéo,nouveau,2026-07-25,9000
+Sarah Nguyen,s.nguyen@biohealth-lab.com,BioHealth Lab,Biotech,qualifié,2026-07-01,112000
+Marc Durand,m.durand@transport-express.fr,Transport Express,Transport,perdu,2026-06-10,7500
+Léa Faure,l.faure@mode-parisienne.fr,Mode Parisienne,Mode,contacté,2026-07-16,19000
+David Roux,d.roux@immo-prestige.com,Immo Prestige,Immobilier,qualifié,2026-07-03,156000
+Chloé Simon,c.simon@foodtech-startup.fr,FoodTech Startup,Agroalimentaire,nouveau,2026-07-28,6500
+Alexandre Vidal,a.vidal@legaltech-solutions.eu,LegalTech Solutions,Juridique,contacté,2026-07-19,34000

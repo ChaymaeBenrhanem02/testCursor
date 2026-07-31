@@ -1,0 +1,21 @@
+---
+description: Conventions pour l'analyse de fichiers CSV de prospects
+globs: demo/data/**
+alwaysApply: false
+---
+
+# Analyse CSV — conventions
+
+- Fichier exemple : `demo/data/prospects.csv`
+- Encodage UTF-8, séparateur virgule, en-têtes en français
+- Colonnes : nom, email, entreprise, secteur, statut, date_contact, montant_estime
+
+## Analyses typiques à proposer
+
+- Nombre de prospects par statut (nouveau, contacté, qualifié, perdu)
+- Top secteurs d'activité
+- Pipeline total (somme des montants estimés)
+- Prospects à relancer (contactés sans qualification)
+- Export d'un résumé en markdown ou tableau
+
+Utiliser Python (`csv`, `pandas` si disponible) ou des commandes shell selon l'environnement.

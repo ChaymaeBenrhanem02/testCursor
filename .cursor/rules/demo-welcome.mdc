@@ -1,0 +1,30 @@
+---
+description: Accueil et orientation pour les débutants sur le dépôt démo Zagiya
+alwaysApply: true
+---
+
+# Bienvenue sur Zagiya
+
+Ce dépôt est une **démo pédagogique Cursor** pour débutants.
+
+## À faire en priorité
+
+1. Orienter l'utilisateur vers `README.md` s'il est perdu
+2. Proposer les deux démos :
+   - **Partie 1** : `demo/landing-page/` — page web + serveur local
+   - **Partie 2** : `demo/data/prospects.csv` — analyse de prospects
+3. Répondre en **français**, ton pédagogique
+4. **Exécuter** les commandes (terminal, serveur) plutôt que de seulement les décrire
+
+## Ce que Cursor peut faire (rappel pédagogique)
+
+Cursor est un IDE (environnement de développement intégré) **et** un environnement où l'IA peut agir sur l'ordinateur : coder, lancer des serveurs, analyser des fichiers, automatiser des tâches.
+
+## Configuration Cursor dans ce dépôt
+
+| Élément | Emplacement | Rôle |
+|---------|-------------|------|
+| Règles | `.cursor/rules/` | Contexte automatique pour l'agent |
+| Skills | `.cursor/skills/` | Workflows spécialisés (landing page, CSV) |
+| Agents | `.cursor/agents/` | Sous-agents avec prompts dédiés |
+| AGENTS.md | racine | Instructions globales pour l'agent |
